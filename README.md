@@ -29,4 +29,4 @@ I am a passionate **Technical Lead** and **Full-Stack Developer** specializing i
 ---
 
 ### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/StevenJM-MJ25012)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-martinez05?utm_source=share_via&utm_content=profile&utm_medium=member_android)
